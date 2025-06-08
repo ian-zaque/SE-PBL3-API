@@ -5,13 +5,13 @@ import json
 import uuid
 
 # Configurações do broker com autenticação
-BROKER = "192.168.156.101"      # Altere para o endereço do seu broker
+BROKER = "192.168.62.7"      # Altere para o endereço do seu broker
 PORT = 1883                    # Porta do broker (normalmente 1883 para conexões sem TLS)
-TOPICS = ["/temperature", "/humidity", "/luminosity", "/gas", "/control"]
+TOPICS = ["/temperature", "/humidity", "/luminosity", "/gas", "/environment", "/control"]
 CLIENT_ID = "API_CLIENT"  # ID único do cliente
 USERNAME = "LUCAS"         # Nome de usuário fornecido pelo broker
 PASSWORD = "3301"           # Senha correspondente
-DATA = { "luminosity": None, "humidity": None, "gas": None, "temperature": None, "timestamp": None, "_id": None }
+DATA = { "environment": None, "luminosity": None, "humidity": None, "gas": None, "temperature": None, "timestamp": None, "_id": None }
 STOP = False
 
 DB_CONNECTION = MongoClient("mongodb://localhost:27017/")
@@ -47,10 +47,12 @@ def on_message(client, userdata, msg):
         elif 'temperature' in topic:
             # print(f"Temperatura: ", message)
             DATA['temperature'] = message
+        elif 'environment' in topic:
+            DATA['environment'] = message
         elif 'control' in topic:
             print(f"Parada Solicitada!!!")
 
-        if (DATA['luminosity'] != None) and (DATA['humidity'] != None) and (DATA['gas'] != None) and (DATA['temperature'] != None):
+        if((DATA['luminosity'] != None) and (DATA['humidity'] != None) and (DATA['gas'] != None) and (DATA['temperature'] != None) and (DATA['environment'] != None)):
             DATA['timestamp'] = datetime.datetime.now().strftime("%m/%d/%Y, %H:%M:%S")
             DATA['_id'] = str(uuid.uuid4())
             print(f"Dados formatados: ", DATA)
