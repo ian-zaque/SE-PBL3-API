@@ -59,7 +59,11 @@ def on_message(client, userdata, msg):
             db_put()
 
 def db_put():
-    data = COLLECTION.insert_one(DATA)
+    COLLECTION.insert_one(DATA.copy())  # Salva uma cópia dos dados atuais
+    # Limpa os campos para evitar duplicatas baseadas em dados antigos
+    for key in ["luminosity", "humidity", "gas", "temperature", "environment"]:
+        DATA[key] = None
+
 
 def connect_to_broker():
     # Cria o cliente MQTT com client_id
