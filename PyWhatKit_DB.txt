@@ -1,0 +1,47 @@
+Date: 9/6/2025
+Time: 12:12
+Phone Number: +5575988060006
+Message: um zap para enviar agora
+--------------------
+Date: 9/6/2025
+Time: 12:14
+Phone Number: +5575988060006
+Message: um zap para enviar agora
+--------------------
+Date: 9/6/2025
+Time: 12:16
+Phone Number: +5575988060006
+Message: um zap para enviar agora
+--------------------
+Date: 9/6/2025
+Time: 12:21
+Phone Number: +5575988060006
+Message: um zap para enviar agora
+--------------------
+Date: 9/6/2025
+Time: 12:22
+Phone Number: +5575988060006
+Message: um zap para enviar agora
+--------------------
+Date: 9/6/2025
+Time: 15:4
+Phone Number: +5575988060006
+Message: um zap para enviar agora
+--------------------
+Date: 9/6/2025
+Time: 15:5
+Phone Number: +5575988060006
+Message: um zap para enviar agora
+--------------------
+Date: 9/6/2025
+Time: 16:7
+Phone Number: +5575988060006
+Image: ../decoded_img.jpg
+Caption: *Ambiente*: Propício à vida *Horário*: 06/06/2025 12:41:07 *Luminosidade*: 56.12 *Umidade*:60.00 *Gás*: 3.30 *Temperatura*: 23.20
+--------------------
+Date: 9/6/2025
+Time: 16:24
+Phone Number: +5575988060006
+Image: C:\Users\xaven\OneDrive\Documentos\GitHub\SE-PBL3-API/decoded_img.jpg
+Caption: *Ambiente*: Propício à vida *Horário*: 06/06/2025 12:41:07 *Luminosidade*: 56.12 *Umidade*:60.00 *Gás*: 3.30 *Temperatura*: 23.20
+--------------------

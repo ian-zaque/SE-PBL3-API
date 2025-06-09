@@ -1,2 +1,4 @@
 pymongo
 paho-mqtt
+pywhatkit
+pywin32
