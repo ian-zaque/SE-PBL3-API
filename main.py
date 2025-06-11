@@ -8,12 +8,12 @@ import os
 import asyncio
 
 # Configurações do broker com autenticação
-BROKER = "192.168.204.101"      # Altere para o endereço do seu broker
+BROKER = ""      # Altere para o endereço do seu broker
 PORT = 1883                    # Porta do broker (normalmente 1883 para conexões sem TLS)
 TOPICS = ["/temperature", "/humidity", "/luminosity", "/gas", "/environment", "/control", "/photo"]
 CLIENT_ID = "API_CLIENT"  # ID único do cliente
-USERNAME = "LUCAS"         # Nome de usuário fornecido pelo broker
-PASSWORD = "3301"           # Senha correspondente
+USERNAME = ""         # Nome de usuário fornecido pelo broker
+PASSWORD = ""           # Senha correspondente
 DATA = { "environment": None, "luminosity": None, "humidity": None, "gas": None, "temperature": None, "timestamp": None, "_id": None, "photo": None, }
 
 # Database configuration
