@@ -45,3 +45,57 @@ Phone Number: +5575988060006
 Image: C:\Users\xaven\OneDrive\Documentos\GitHub\SE-PBL3-API/decoded_img.jpg
 Caption: *Ambiente*: Propício à vida *Horário*: 06/06/2025 12:41:07 *Luminosidade*: 56.12 *Umidade*:60.00 *Gás*: 3.30 *Temperatura*: 23.20
 --------------------
+Date: 11/6/2025
+Time: 9:5
+Phone Number: +5575988060006
+Image: C:\Users\xaven\OneDrive\Documentos\GitHub\SE-PBL3-API/decoded_img.jpg
+Caption: *Ambiente*: None *Horário*: None *Luminosidade*: None *Umidade*:None *Gás*: None *Temperatura*: None
+--------------------
+Date: 11/6/2025
+Time: 9:7
+Phone Number: +5575988060006
+Image: C:\Users\xaven\OneDrive\Documentos\GitHub\SE-PBL3-API/decoded_img.jpg
+Caption: *Ambiente*: Propício à vida *Horário*: 06/06/2025 12:41:07 *Luminosidade*: 56.12 *Umidade*:60.00 *Gás*: 3.30 *Temperatura*: 23.20
+--------------------
+Date: 11/6/2025
+Time: 10:1
+Phone Number: +5575988060006
+Image: C:\Users\xaven\OneDrive\Documentos\GitHub\SE-PBL3-API/decoded_image.jpg
+Caption: *Ambiente*: Propicio a vida *Horário*: 06/11/2025 10:01:37 *Luminosidade*: 72.19 *Umidade*:47.00 *Temperatura*: 24.40 *Gás*: 34.00
+--------------------
+Date: 11/6/2025
+Time: 10:2
+Phone Number: +5575988060006
+Image: C:\Users\xaven\OneDrive\Documentos\GitHub\SE-PBL3-API/decoded_image.jpg
+Caption: *Ambiente*: Propicio a vida *Horário*: 06/11/2025 10:02:09 *Luminosidade*: 72.19 *Umidade*:47.00 *Temperatura*: 24.40 *Gás*: 34.00
+--------------------
+Date: 11/6/2025
+Time: 10:12
+Phone Number: +5575988060006
+Image: C:\Users\xaven\OneDrive\Documentos\GitHub\SE-PBL3-API/decoded_image.jpg
+Caption: *Ambiente*: Propicio a vida *Horário*: 06/11/2025 10:12:50 *Luminosidade*: 53.40 *Umidade*:48.00 *Temperatura*: 24.10 *Gás*: 34.00
+--------------------
+Date: 11/6/2025
+Time: 10:21
+Phone Number: +5575988060006
+Image: C:\Users\xaven\OneDrive\Documentos\GitHub\SE-PBL3-API/decoded_image.jpg
+Caption: *Ambiente*: Propicio a vida *Horário*: 06/11/2025 10:21:06 *Luminosidade*: 38.64 *Umidade*:49.00 *Temperatura*: 24.70 *Gás*: 34.00
+--------------------
+Date: 11/6/2025
+Time: 10:27
+Phone Number: +5575988060006
+Image: C:\Users\xaven\OneDrive\Documentos\GitHub\SE-PBL3-API/decoded_image.jpg
+Caption: *Ambiente*: Propicio a vida *Horário*: 06/11/2025 10:27:12 *Luminosidade*: None *Umidade*:None *Temperatura*: 23.70 *Gás*: None
+--------------------
+Date: 11/6/2025
+Time: 10:49
+Phone Number: +5575988060006
+Image: C:\Users\xaven\OneDrive\Documentos\GitHub\SE-PBL3-API/decoded_image.jpg
+Caption: *Ambiente*: Propicio a vida *Horário*: 06/11/2025 10:49:08 *Luminosidade*: 38.56 *Umidade*:52.00 *Temperatura*: 23.70 *Gás*: 40.00
+--------------------
+Date: 11/6/2025
+Time: 10:50
+Phone Number: +5575988060006
+Image: C:\Users\xaven\OneDrive\Documentos\GitHub\SE-PBL3-API/decoded_image.jpg
+Caption: *Ambiente*: Propicio a vida *Horário*: 06/11/2025 10:50:50 *Luminosidade*: 72.09 *Umidade*:48.00 *Temperatura*: 23.40 *Gás*: 40.00
+--------------------
